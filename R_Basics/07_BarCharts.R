@@ -1,4 +1,4 @@
-# File: 06_BarCharts.R
+# File: 07_BarCharts.R
 # Project: Baiscs_R
 
 # INSTALL AND LOAD PACKAGES ##########################
