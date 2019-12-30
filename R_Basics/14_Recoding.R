@@ -46,5 +46,5 @@ df2 <- df %>%
 
 df2 %>%
   select(state_code, likeArts, museum:modernDance) %>%
-  arrange(desc(likeArts))
+  arrange(desc(likeArts)) %>%
   print(n = Inf)
