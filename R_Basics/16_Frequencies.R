@@ -57,3 +57,5 @@ df %>%
   mutate(region = as.factor(region)) %>%
   mutate(psychRegions = as.factor(psychRegions)) %>%
   print()
+
+summary(df)
