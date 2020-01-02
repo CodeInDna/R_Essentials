@@ -76,3 +76,10 @@ lm(volunteering ~ instagram + facebook + retweet +
      mortgage + museum + scrapbook + modernDance, data = df)
 
  # Save model
+fit2 <- lm(df)
+
+# Show model
+fit2
+
+# Summarize regression model
+summary(fit2)
